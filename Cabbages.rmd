@@ -27,7 +27,7 @@ $H_A$: There is a difference between vitamin C content based on the cultivation 
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
-
+Cultivation is the categorical variable. Vitamin C is the numerical variable. I will do an analysis on Vitamin C based on cultivation. 
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->

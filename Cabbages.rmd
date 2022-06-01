@@ -39,6 +39,11 @@ Cultivation is the categorical variable. Vitamin C is the numerical variable. I 
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
+
+Vitamin C levels are higher in the c52 while being lower in c39. The cultivation of c52 shows higher Vitamin C levels. The mean is lower in c39 for vitamin C and higher in c52.                    
 
 ### Numerical Descriptive Results
 

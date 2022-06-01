@@ -68,3 +68,5 @@ P-value is 0.00000003405. Based on the t test, there is a difference between the
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The null hypothesis states there is no difference between the vitamin c levels after cultivation. The null hypothesis is rejected after the results are all seen here. With the graph, numerical, and inferential methods, there is a difference of the vitamin C after cultivation between c39 and c52. The p-value is less than 0.05 so there is a 95% positive result for there being a difference. c52 has more vitamin C after cultivation. 
